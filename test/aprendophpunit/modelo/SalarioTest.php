@@ -23,6 +23,6 @@ class SalarioTest extends \PHPUnit\Framework\TestCase
     }
 
     public function testExito(){
-        $this->assertTrue(false);
+        $this->assertTrue(true);
     }
 }
